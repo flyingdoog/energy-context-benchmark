@@ -1,6 +1,7 @@
 # Code and data availability
 
-Code and data for the paper accepted at IEEE ICCA 2026:
+Code and data for the paper accepted at the IEEE International Conference on
+Computer & Applications 2026:
 
 > Code, evaluation scripts, aggregate results, and prepared EPFL and CU-BEMS
 > forecasting data are available at

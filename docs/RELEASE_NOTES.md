@@ -1,7 +1,8 @@
-# IEEE ICCA 2026 - Code and Data v1.0.0
+# IEEE International Conference on Computer & Applications 2026 - Code and Data v1.0.0
 
 Code and data accompanying **When Does Context Help Forecasting? An Empirical
-Study of Energy Systems**, accepted at IEEE ICCA 2026.
+Study of Energy Systems**, accepted at the IEEE International Conference on
+Computer & Applications 2026.
 
 Xu Zheng, Jingchao Ni, Mo Sha, and Dongsheng Luo.
 

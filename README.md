@@ -4,7 +4,7 @@
 
 Xu Zheng, Jingchao Ni, Mo Sha, and Dongsheng Luo
 
-Accepted at **IEEE ICCA 2026**.
+Accepted at the **IEEE International Conference on Computer & Applications 2026**.
 
 [Download data](https://github.com/flyingdoog/energy-context-benchmark/releases/download/v1.0.0/context-energy-forecasting-data-v1.0.0.zip) · [Data guide](data/README.md) · [Reproduction guide](docs/REPRODUCING.md) · [MIT license](LICENSE)
 
@@ -107,7 +107,7 @@ preparation instructions rather than their records. See
   title = {When Does Context Help Forecasting? An Empirical Study of Energy Systems},
   author = {Zheng, Xu and Ni, Jingchao and Sha, Mo and Luo, Dongsheng},
   year = {2026},
-  booktitle = {IEEE ICCA},
+  booktitle = {IEEE International Conference on Computer \& Applications},
   note = {Accepted for publication},
   url = {https://github.com/flyingdoog/energy-context-benchmark}
 }
