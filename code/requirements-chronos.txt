@@ -1,0 +1,4 @@
+# Optional model dependencies. Install inside your own environment.
+# These exact library versions were used for the default reference.
+chronos-forecasting==2.3.1
+transformers==5.16.1

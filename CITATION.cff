@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "Please cite the IEEE ICCA 2026 paper and the original data sources when using this artifact."
+title: "When Does Context Help Forecasting? An Empirical Study of Energy Systems"
+type: software
+version: 1.0.0
+authors:
+  - family-names: Zheng
+    given-names: Xu
+  - family-names: Ni
+    given-names: Jingchao
+  - family-names: Sha
+    given-names: Mo
+  - family-names: Luo
+    given-names: Dongsheng
+repository-code: "https://github.com/flyingdoog/energy-context-benchmark"
+url: "https://github.com/flyingdoog/energy-context-benchmark"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "When Does Context Help Forecasting? An Empirical Study of Energy Systems"
+  authors:
+    - family-names: Zheng
+      given-names: Xu
+    - family-names: Ni
+      given-names: Jingchao
+    - family-names: Sha
+      given-names: Mo
+    - family-names: Luo
+      given-names: Dongsheng
+  collection-title: "IEEE ICCA"
+  year: 2026
+  notes: "Accepted for publication. Proceedings DOI and page numbers are not yet assigned in this record."
+  url: "https://github.com/flyingdoog/energy-context-benchmark"

@@ -1,0 +1,38 @@
+[
+  {
+    "model": "LightGBM",
+    "period": "autumn",
+    "telemetry_mse": 0.2581496262014656,
+    "telemetry_mae": 0.2779742171705573,
+    "declared_mse": 0.20948924495343013,
+    "declared_mae": 0.2511532371758829,
+    "mse_reduction_pct": 18.849681079940762
+  },
+  {
+    "model": "LightGBM",
+    "period": "winter",
+    "telemetry_mse": 0.25625780185435004,
+    "telemetry_mae": 0.2900157513848341,
+    "declared_mse": 0.2152743671033508,
+    "declared_mae": 0.24758062694495112,
+    "mse_reduction_pct": 15.993048584055643
+  },
+  {
+    "model": "N-HiTS",
+    "period": "autumn",
+    "telemetry_mse": 0.30668791811457635,
+    "telemetry_mae": 0.30084628330760615,
+    "declared_mse": 0.22872603098877284,
+    "declared_mae": 0.2613180349939744,
+    "mse_reduction_pct": 25.420592896221468
+  },
+  {
+    "model": "N-HiTS",
+    "period": "winter",
+    "telemetry_mse": 0.3252279472464421,
+    "telemetry_mae": 0.31798262415105705,
+    "declared_mse": 0.22466857114699165,
+    "declared_mae": 0.25756282857456675,
+    "mse_reduction_pct": 30.91966018014171
+  }
+]

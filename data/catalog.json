@@ -1,0 +1,60 @@
+{
+  "artifact_version": "1.0.0",
+  "data_asset": "context-energy-forecasting-data-v1.0.0.zip",
+  "sources": [
+    {
+      "name": "EPFL Level-3 EV charging",
+      "provider": "DESL, EPFL",
+      "source_url": "https://github.com/DESL-EPFL/Level-3-EV-charging-dataset",
+      "revision": "680bc3bb751f86a47db32a5641f09dcfa079caae",
+      "license": "MIT",
+      "notice": "epfl/source_notices/LICENSE",
+      "prepared_path": "data/epfl",
+      "distribution": "code repository and data asset",
+      "cases": {"train": 946, "validation": 86, "later": 739},
+      "input_history_minutes": 10,
+      "target_bin_minutes": 5,
+      "target_bin_count": 6,
+      "paper_target": "actual_power",
+      "power_unit": "kW"
+    },
+    {
+      "name": "CU-BEMS",
+      "source_url": "https://doi.org/10.6084/m9.figshare.11726517.v6",
+      "version": 6,
+      "source_year": 2019,
+      "license": "CC-BY-4.0",
+      "notice": "CU_BEMS_ATTRIBUTION.md",
+      "prepared_path": "data/cu_bems/floor{1..7}",
+      "distribution": "data asset only",
+      "floors": [1, 2, 3, 4, 5, 6, 7],
+      "paper_common_thermal_floors": [2, 3, 4, 5, 7],
+      "buildings": 1,
+      "input_history_minutes": 60,
+      "target_bin_minutes": 15,
+      "target_bin_count": 10,
+      "power_unit": "kW",
+      "split_intervals_start_inclusive_end_exclusive": {
+        "train": ["2019-04-01", "2019-07-01"],
+        "validation": ["2019-07-01", "2019-09-01"],
+        "later_1": ["2019-09-01", "2019-11-01"],
+        "later_2": ["2019-11-01", "2020-01-01"]
+      }
+    },
+    {
+      "name": "BPA CTA-2045 water heaters",
+      "source_url": "https://www.bpa.gov/energy-and-services/conservation/emerging-technologies/portfolio/cta-2045-water-heaters",
+      "source_files": ["winter2018.zip", "spring2018.zip", "summer2018.zip"],
+      "distribution": "access and preparation code only; records not redistributed",
+      "license": "Provider terms; redistribution permission not established"
+    },
+    {
+      "name": "ACN-Data static telemetry",
+      "source_url": "https://github.com/tongxin-li/ACN-Data-Static",
+      "revision": "abb7cf15cc7108913e965d4375cc7270d532b65f",
+      "distribution": "access and preparation code only; records not redistributed",
+      "license": "Provider terms; redistribution permission not established",
+      "declarations": "Table III needs a separate authorized session metadata source; not present in static telemetry"
+    }
+  ]
+}

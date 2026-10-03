@@ -1,0 +1,38 @@
+{
+  "completed": true,
+  "source": "EPFL Level-3 EV charging dataset",
+  "source_url": "https://github.com/DESL-EPFL/Level-3-EV-charging-dataset",
+  "query_minutes": 10,
+  "history_minutes": 10,
+  "target_bins_minutes": 5,
+  "spans_minutes": [
+    5,
+    15,
+    30
+  ],
+  "target_names": [
+    "actual_power",
+    "requested_power"
+  ],
+  "source_clock": "Naive recorded timestamps; physical timezone unresolved",
+  "end_rule": "Zero only after source-confirmed departure of the same session; no interior fill",
+  "support": [
+    {
+      "split": "later",
+      "sessions": 739,
+      "dates": 100
+    },
+    {
+      "split": "train",
+      "sessions": 946,
+      "dates": 107
+    },
+    {
+      "split": "validation",
+      "sessions": 86,
+      "dates": 13
+    }
+  ],
+  "source_modified": false,
+  "new_model_fits": 0
+}

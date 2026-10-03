@@ -1,0 +1,731 @@
+[
+  {
+    "source": "BPA",
+    "site": "Field study",
+    "period": "spring",
+    "model": "Ridge",
+    "condition": "power",
+    "mse": 0.2901617042096601,
+    "mae": 0.217698308370396
+  },
+  {
+    "source": "BPA",
+    "site": "Field study",
+    "period": "spring",
+    "model": "Ridge",
+    "condition": "power_state",
+    "mse": 0.3137603080933642,
+    "mae": 0.2464777309294344
+  },
+  {
+    "source": "BPA",
+    "site": "Field study",
+    "period": "spring",
+    "model": "Ridge",
+    "condition": "full",
+    "mse": 0.3349401478098905,
+    "mae": 0.2728874182067742
+  },
+  {
+    "source": "BPA",
+    "site": "Field study",
+    "period": "spring",
+    "model": "LightGBM",
+    "condition": "power",
+    "mse": 0.2821245484509653,
+    "mae": 0.1923288918571202
+  },
+  {
+    "source": "BPA",
+    "site": "Field study",
+    "period": "spring",
+    "model": "LightGBM",
+    "condition": "power_state",
+    "mse": 0.253866162679182,
+    "mae": 0.1843596206365737
+  },
+  {
+    "source": "BPA",
+    "site": "Field study",
+    "period": "spring",
+    "model": "LightGBM",
+    "condition": "full",
+    "mse": 0.2530773719721262,
+    "mae": 0.1832250283087505
+  },
+  {
+    "source": "BPA",
+    "site": "Field study",
+    "period": "spring",
+    "model": "N-HiTS",
+    "condition": "power",
+    "mse": 0.3224353647148498,
+    "mae": 0.2075294167484979
+  },
+  {
+    "source": "BPA",
+    "site": "Field study",
+    "period": "spring",
+    "model": "N-HiTS",
+    "condition": "power_state",
+    "mse": 0.2971168995252492,
+    "mae": 0.1913789756677692
+  },
+  {
+    "source": "BPA",
+    "site": "Field study",
+    "period": "spring",
+    "model": "N-HiTS",
+    "condition": "full",
+    "mse": 0.2984658117325167,
+    "mae": 0.1889216690427973
+  },
+  {
+    "source": "BPA",
+    "site": "Field study",
+    "period": "summer",
+    "model": "Ridge",
+    "condition": "power",
+    "mse": 0.2391895588705026,
+    "mae": 0.198076607371717
+  },
+  {
+    "source": "BPA",
+    "site": "Field study",
+    "period": "summer",
+    "model": "Ridge",
+    "condition": "power_state",
+    "mse": 0.2564126070955937,
+    "mae": 0.2229702112871164
+  },
+  {
+    "source": "BPA",
+    "site": "Field study",
+    "period": "summer",
+    "model": "Ridge",
+    "condition": "full",
+    "mse": 0.3338730678245957,
+    "mae": 0.2903853926366089
+  },
+  {
+    "source": "BPA",
+    "site": "Field study",
+    "period": "summer",
+    "model": "LightGBM",
+    "condition": "power",
+    "mse": 0.2280665601782237,
+    "mae": 0.1759689144044848
+  },
+  {
+    "source": "BPA",
+    "site": "Field study",
+    "period": "summer",
+    "model": "LightGBM",
+    "condition": "power_state",
+    "mse": 0.196805443840515,
+    "mae": 0.1664010811387245
+  },
+  {
+    "source": "BPA",
+    "site": "Field study",
+    "period": "summer",
+    "model": "LightGBM",
+    "condition": "full",
+    "mse": 0.1963690465165402,
+    "mae": 0.167069114205425
+  },
+  {
+    "source": "BPA",
+    "site": "Field study",
+    "period": "summer",
+    "model": "N-HiTS",
+    "condition": "power",
+    "mse": 0.2739874013764614,
+    "mae": 0.1943766560581646
+  },
+  {
+    "source": "BPA",
+    "site": "Field study",
+    "period": "summer",
+    "model": "N-HiTS",
+    "condition": "power_state",
+    "mse": 0.2370520497100462,
+    "mae": 0.1739827323774794
+  },
+  {
+    "source": "BPA",
+    "site": "Field study",
+    "period": "summer",
+    "model": "N-HiTS",
+    "condition": "full",
+    "mse": 0.2506943754311972,
+    "mae": 0.1851276793394951
+  },
+  {
+    "source": "ACN",
+    "site": "Caltech",
+    "period": "autumn",
+    "model": "Ridge",
+    "condition": "power",
+    "mse": 1.1826541711157628,
+    "mae": 0.4837565040148848
+  },
+  {
+    "source": "ACN",
+    "site": "Caltech",
+    "period": "autumn",
+    "model": "Ridge",
+    "condition": "power_state",
+    "mse": 1.1997749465673406,
+    "mae": 0.4976086722860134
+  },
+  {
+    "source": "ACN",
+    "site": "Caltech",
+    "period": "autumn",
+    "model": "Ridge",
+    "condition": "full",
+    "mse": 1.1996597625603742,
+    "mae": 0.5016854715125357
+  },
+  {
+    "source": "ACN",
+    "site": "Caltech",
+    "period": "autumn",
+    "model": "LightGBM",
+    "condition": "power",
+    "mse": 1.1156254609425862,
+    "mae": 0.4249241451422373
+  },
+  {
+    "source": "ACN",
+    "site": "Caltech",
+    "period": "autumn",
+    "model": "LightGBM",
+    "condition": "power_state",
+    "mse": 1.103359580039978,
+    "mae": 0.4193047881126404
+  },
+  {
+    "source": "ACN",
+    "site": "Caltech",
+    "period": "autumn",
+    "model": "LightGBM",
+    "condition": "full",
+    "mse": 1.092869520187378,
+    "mae": 0.4146805802981059
+  },
+  {
+    "source": "ACN",
+    "site": "Caltech",
+    "period": "autumn",
+    "model": "N-HiTS",
+    "condition": "power",
+    "mse": 1.2024124599421209,
+    "mae": 0.4552211187508887
+  },
+  {
+    "source": "ACN",
+    "site": "Caltech",
+    "period": "autumn",
+    "model": "N-HiTS",
+    "condition": "power_state",
+    "mse": 1.2071415859204953,
+    "mae": 0.4400987086437762
+  },
+  {
+    "source": "ACN",
+    "site": "Caltech",
+    "period": "autumn",
+    "model": "N-HiTS",
+    "condition": "full",
+    "mse": 1.2080569740027458,
+    "mae": 0.4372913809489506
+  },
+  {
+    "source": "ACN",
+    "site": "Caltech",
+    "period": "winter",
+    "model": "Ridge",
+    "condition": "power",
+    "mse": 1.0010557599942276,
+    "mae": 0.4314857319203253
+  },
+  {
+    "source": "ACN",
+    "site": "Caltech",
+    "period": "winter",
+    "model": "Ridge",
+    "condition": "power_state",
+    "mse": 1.042625595145274,
+    "mae": 0.4625124069318433
+  },
+  {
+    "source": "ACN",
+    "site": "Caltech",
+    "period": "winter",
+    "model": "Ridge",
+    "condition": "full",
+    "mse": 1.0641295575690408,
+    "mae": 0.4728224888653254
+  },
+  {
+    "source": "ACN",
+    "site": "Caltech",
+    "period": "winter",
+    "model": "LightGBM",
+    "condition": "power",
+    "mse": 1.0441596607367198,
+    "mae": 0.3853206634521484
+  },
+  {
+    "source": "ACN",
+    "site": "Caltech",
+    "period": "winter",
+    "model": "LightGBM",
+    "condition": "power_state",
+    "mse": 1.0110278924306233,
+    "mae": 0.3779647350311279
+  },
+  {
+    "source": "ACN",
+    "site": "Caltech",
+    "period": "winter",
+    "model": "LightGBM",
+    "condition": "full",
+    "mse": 1.0002075930436451,
+    "mae": 0.3716011643409729
+  },
+  {
+    "source": "ACN",
+    "site": "Caltech",
+    "period": "winter",
+    "model": "N-HiTS",
+    "condition": "power",
+    "mse": 1.0749554786092104,
+    "mae": 0.4059461438675923
+  },
+  {
+    "source": "ACN",
+    "site": "Caltech",
+    "period": "winter",
+    "model": "N-HiTS",
+    "condition": "power_state",
+    "mse": 1.0802989415143116,
+    "mae": 0.3956167973165396
+  },
+  {
+    "source": "ACN",
+    "site": "Caltech",
+    "period": "winter",
+    "model": "N-HiTS",
+    "condition": "full",
+    "mse": 1.081144267410804,
+    "mae": 0.3923197148089325
+  },
+  {
+    "source": "ACN",
+    "site": "Office",
+    "period": "autumn",
+    "model": "Ridge",
+    "condition": "power",
+    "mse": 2.221082359791804,
+    "mae": 0.8559373802941987
+  },
+  {
+    "source": "ACN",
+    "site": "Office",
+    "period": "autumn",
+    "model": "Ridge",
+    "condition": "power_state",
+    "mse": 2.5879646389511906,
+    "mae": 0.9456089190331118
+  },
+  {
+    "source": "ACN",
+    "site": "Office",
+    "period": "autumn",
+    "model": "Ridge",
+    "condition": "full",
+    "mse": 2.788216041033295,
+    "mae": 0.9971357720111492
+  },
+  {
+    "source": "ACN",
+    "site": "Office",
+    "period": "autumn",
+    "model": "LightGBM",
+    "condition": "power",
+    "mse": 2.8188419342041016,
+    "mae": 0.8925383488337199
+  },
+  {
+    "source": "ACN",
+    "site": "Office",
+    "period": "autumn",
+    "model": "LightGBM",
+    "condition": "power_state",
+    "mse": 2.689391533533732,
+    "mae": 0.8862247864405316
+  },
+  {
+    "source": "ACN",
+    "site": "Office",
+    "period": "autumn",
+    "model": "LightGBM",
+    "condition": "full",
+    "mse": 2.665291309356689,
+    "mae": 0.8887319962183634
+  },
+  {
+    "source": "ACN",
+    "site": "Office",
+    "period": "autumn",
+    "model": "N-HiTS",
+    "condition": "power",
+    "mse": 3.191557289353065,
+    "mae": 0.8532488768675547
+  },
+  {
+    "source": "ACN",
+    "site": "Office",
+    "period": "autumn",
+    "model": "N-HiTS",
+    "condition": "power_state",
+    "mse": 3.1689811168389728,
+    "mae": 0.8587010643176027
+  },
+  {
+    "source": "ACN",
+    "site": "Office",
+    "period": "autumn",
+    "model": "N-HiTS",
+    "condition": "full",
+    "mse": 3.366511250519944,
+    "mae": 0.9210792724672024
+  },
+  {
+    "source": "ACN",
+    "site": "Office",
+    "period": "winter",
+    "model": "Ridge",
+    "condition": "power",
+    "mse": 2.622962191022681,
+    "mae": 0.9367377845674824
+  },
+  {
+    "source": "ACN",
+    "site": "Office",
+    "period": "winter",
+    "model": "Ridge",
+    "condition": "power_state",
+    "mse": 2.9162213084911026,
+    "mae": 0.9920262511549142
+  },
+  {
+    "source": "ACN",
+    "site": "Office",
+    "period": "winter",
+    "model": "Ridge",
+    "condition": "full",
+    "mse": 2.9649560452809,
+    "mae": 1.0225591388884403
+  },
+  {
+    "source": "ACN",
+    "site": "Office",
+    "period": "winter",
+    "model": "LightGBM",
+    "condition": "power",
+    "mse": 3.2311083475748696,
+    "mae": 1.0419151385625205
+  },
+  {
+    "source": "ACN",
+    "site": "Office",
+    "period": "winter",
+    "model": "LightGBM",
+    "condition": "power_state",
+    "mse": 2.92254900932312,
+    "mae": 0.9945007960001628
+  },
+  {
+    "source": "ACN",
+    "site": "Office",
+    "period": "winter",
+    "model": "LightGBM",
+    "condition": "full",
+    "mse": 2.9415608247121177,
+    "mae": 1.003826101620992
+  },
+  {
+    "source": "ACN",
+    "site": "Office",
+    "period": "winter",
+    "model": "N-HiTS",
+    "condition": "power",
+    "mse": 3.3717285334945246,
+    "mae": 0.932919098749746
+  },
+  {
+    "source": "ACN",
+    "site": "Office",
+    "period": "winter",
+    "model": "N-HiTS",
+    "condition": "power_state",
+    "mse": 3.315682299572285,
+    "mae": 0.9405568301253088
+  },
+  {
+    "source": "ACN",
+    "site": "Office",
+    "period": "winter",
+    "model": "N-HiTS",
+    "condition": "full",
+    "mse": 3.524559993251119,
+    "mae": 1.0024896531987022
+  },
+  {
+    "source": "EPFL",
+    "site": "Fast charging",
+    "period": "later",
+    "model": "Ridge",
+    "condition": "power",
+    "mse": 583.0096241582795,
+    "mae": 15.910051761266004
+  },
+  {
+    "source": "EPFL",
+    "site": "Fast charging",
+    "period": "later",
+    "model": "Ridge",
+    "condition": "power_state",
+    "mse": 529.2319709347589,
+    "mae": 14.615582783829824
+  },
+  {
+    "source": "EPFL",
+    "site": "Fast charging",
+    "period": "later",
+    "model": "Ridge",
+    "condition": "full",
+    "mse": 561.0186935394144,
+    "mae": 15.130809317399866
+  },
+  {
+    "source": "EPFL",
+    "site": "Fast charging",
+    "period": "later",
+    "model": "LightGBM",
+    "condition": "power",
+    "mse": 675.1604109919869,
+    "mae": 17.163888681702506
+  },
+  {
+    "source": "EPFL",
+    "site": "Fast charging",
+    "period": "later",
+    "model": "LightGBM",
+    "condition": "power_state",
+    "mse": 620.1331668157069,
+    "mae": 16.38247520527714
+  },
+  {
+    "source": "EPFL",
+    "site": "Fast charging",
+    "period": "later",
+    "model": "LightGBM",
+    "condition": "full",
+    "mse": 614.4747170970483,
+    "mae": 15.95911299120983
+  },
+  {
+    "source": "EPFL",
+    "site": "Fast charging",
+    "period": "later",
+    "model": "N-HiTS",
+    "condition": "power",
+    "mse": 740.5166437970989,
+    "mae": 17.456826180056694
+  },
+  {
+    "source": "EPFL",
+    "site": "Fast charging",
+    "period": "later",
+    "model": "N-HiTS",
+    "condition": "power_state",
+    "mse": 798.9488874650733,
+    "mae": 18.32641529636094
+  },
+  {
+    "source": "EPFL",
+    "site": "Fast charging",
+    "period": "later",
+    "model": "N-HiTS",
+    "condition": "full",
+    "mse": 874.8570484393691,
+    "mae": 18.771650957350403
+  },
+  {
+    "source": "CU-BEMS",
+    "site": "",
+    "period": "later_1",
+    "model": "Ridge",
+    "condition": "power",
+    "mse": 13.784258663,
+    "mae": 1.4914273731
+  },
+  {
+    "source": "CU-BEMS",
+    "site": "",
+    "period": "later_1",
+    "model": "Ridge",
+    "condition": "power_state",
+    "mse": 13.6301262851,
+    "mae": 1.4601424499
+  },
+  {
+    "source": "CU-BEMS",
+    "site": "",
+    "period": "later_1",
+    "model": "Ridge",
+    "condition": "full",
+    "mse": 13.6301262851,
+    "mae": 1.4601424499
+  },
+  {
+    "source": "CU-BEMS",
+    "site": "",
+    "period": "later_1",
+    "model": "LightGBM",
+    "condition": "power",
+    "mse": 3.0150330332,
+    "mae": 0.42680403450000004
+  },
+  {
+    "source": "CU-BEMS",
+    "site": "",
+    "period": "later_1",
+    "model": "LightGBM",
+    "condition": "power_state",
+    "mse": 3.3174005447,
+    "mae": 0.4725708491
+  },
+  {
+    "source": "CU-BEMS",
+    "site": "",
+    "period": "later_1",
+    "model": "LightGBM",
+    "condition": "full",
+    "mse": 3.3174005447,
+    "mae": 0.4725708491
+  },
+  {
+    "source": "CU-BEMS",
+    "site": "",
+    "period": "later_1",
+    "model": "N-HiTS",
+    "condition": "power",
+    "mse": 5.8326594598,
+    "mae": 0.656795592
+  },
+  {
+    "source": "CU-BEMS",
+    "site": "",
+    "period": "later_1",
+    "model": "N-HiTS",
+    "condition": "power_state",
+    "mse": 6.4198945635,
+    "mae": 0.6897236675
+  },
+  {
+    "source": "CU-BEMS",
+    "site": "",
+    "period": "later_1",
+    "model": "N-HiTS",
+    "condition": "full",
+    "mse": 6.4198945635,
+    "mae": 0.6897236675
+  },
+  {
+    "source": "CU-BEMS",
+    "site": "",
+    "period": "later_2",
+    "model": "Ridge",
+    "condition": "power",
+    "mse": 12.3408416307,
+    "mae": 1.4290517384
+  },
+  {
+    "source": "CU-BEMS",
+    "site": "",
+    "period": "later_2",
+    "model": "Ridge",
+    "condition": "power_state",
+    "mse": 12.2350504007,
+    "mae": 1.4016560549000001
+  },
+  {
+    "source": "CU-BEMS",
+    "site": "",
+    "period": "later_2",
+    "model": "Ridge",
+    "condition": "full",
+    "mse": 12.2350504007,
+    "mae": 1.4016560549000001
+  },
+  {
+    "source": "CU-BEMS",
+    "site": "",
+    "period": "later_2",
+    "model": "LightGBM",
+    "condition": "power",
+    "mse": 4.1107975176,
+    "mae": 0.4884780622
+  },
+  {
+    "source": "CU-BEMS",
+    "site": "",
+    "period": "later_2",
+    "model": "LightGBM",
+    "condition": "power_state",
+    "mse": 4.6581841869,
+    "mae": 0.5577337425000001
+  },
+  {
+    "source": "CU-BEMS",
+    "site": "",
+    "period": "later_2",
+    "model": "LightGBM",
+    "condition": "full",
+    "mse": 4.6581841869,
+    "mae": 0.5577337425000001
+  },
+  {
+    "source": "CU-BEMS",
+    "site": "",
+    "period": "later_2",
+    "model": "N-HiTS",
+    "condition": "power",
+    "mse": 6.8711623911,
+    "mae": 0.6975025375
+  },
+  {
+    "source": "CU-BEMS",
+    "site": "",
+    "period": "later_2",
+    "model": "N-HiTS",
+    "condition": "power_state",
+    "mse": 7.6617065898,
+    "mae": 0.7628100066
+  },
+  {
+    "source": "CU-BEMS",
+    "site": "",
+    "period": "later_2",
+    "model": "N-HiTS",
+    "condition": "full",
+    "mse": 7.6617065898,
+    "mae": 0.7628100066
+  }
+]
